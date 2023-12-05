@@ -1,7 +1,8 @@
 [![MasterHead](/head.jpg)](https://solin.pro/)
+<p align="center"><a href="https://github.com/shadhog/" target="_blank" rel="noreferrer"><img src="/logo.jpg"></a></p>
+
 <h1 align="center">Hi 👋, I'm Yariv Feldman</h1>
 <h3 align="center">I am a currently a Webmaster in 888 company</h3>
-<img align="right" src="/logo.jpg">
 - ⭐ I’m currently working on [the profile website for me and my wife](https://github.com/shadhog/solin)
 
 - 💪 I’m currently learning **How to improve my react skills**
